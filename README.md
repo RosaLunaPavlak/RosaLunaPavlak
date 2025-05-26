@@ -21,10 +21,9 @@ https://deeplearningviirsoceancolorcode.tiiny.site/
 Welcome to my GitHub profile 👋
 
 I'm Rosa Luna Pavlak — a passionate applied math student and aspiring AI researcher.  
-Currently improving my skills in **Python** and **R**, and actively applying for research and tech roles.
+Currently improving my skills in **Python** and **R**, practicing for the Mathematics GRE, and actively applying for research and tech roles.
 
-- 🔭 Currently working on: Job applications and improving my programming skills
-- 📫 How to reach me: [rosalpavlak@gmail.com](mailto:rosalpavlak@gmail.com) | 929-472-8620
+- 📫 How to reach me: [rosalpavlak@gmail.com](mailto:rosalpavlak@gmail.com) | 929-472-8620 | https://www.linkedin.com/in/rosa-p-65603b17b/
 - 😄 Pronouns: She/her
 
 ---
