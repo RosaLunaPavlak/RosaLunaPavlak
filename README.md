@@ -34,7 +34,7 @@ Currently improving my skills in **Python** and **R**, practicing for the Mathem
 - 🖼️ **Poster Presentation**:  
   [View Poster (Google Slides)](https://docs.google.com/presentation/d/1LvMqIFKaGXuVDzU9Laii06Z5wMcuOgNH/edit?usp=sharing&ouid=101199016545513711679&rtpof=true&sd=true)
 
-- 💻 **Live Code Demo**:  
+- 💻 **Code**:  
   [deeplearningviirsoceancolorcode.tiiny.site](https://deeplearningviirsoceancolorcode.tiiny.site/)
 
 ---
