@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello!
 
 <!--
-**RosaLunaPavlak/RosaLunaPavlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RosaLunaPavlak/RosaLunaPavlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Job applications and improving my knowledge of Python and R
+- 📫 How to reach me: rosalpavlak@gmail.com - 929-472-8620
+- 😄 Pronouns: She/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My Projects:
+
+**Deep Learning-Based Correction of VIIRS Ocean Color Data in High-Turbidity Waters**
+
+Poster:
+https://docs.google.com/presentation/d/1LvMqIFKaGXuVDzU9Laii06Z5wMcuOgNH/edit?usp=sharing&ouid=101199016545513711679&rtpof=true&sd=true
+
+Code:
+https://deeplearningviirsoceancolorcode.tiiny.site/
+
 -->
