@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on: Job applications and improving my knowledge of Python and R
 - 📫 How to reach me: rosalpavlak@gmail.com - 929-472-8620
-- 😄 Pronouns: She/her
 
 My Projects:
 
